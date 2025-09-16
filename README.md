@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👀 Currently seeking 2026 New Grad opportunities<br><br>👨‍💻 Incoming SWE @ StackAdapt, Previously SWE Intern at theScore, Relay Financial, Dandelion Networks, JANA Corporation<br><br>🔭 I’m currently working on my capstone, a Course Recommender System for Waterloo students<br><br>🌱 I’m currently learning Ruby, Ruby on Rails, and Golang for my upcoming internship<br><br>📫 Reach me at: d26ly@uwaterloo.ca</p>
+<p align="left">👀 Currently seeking 2026 New Grad opportunities<br><br>👨‍💻 SWE @ StackAdapt, Previously SWE Intern at theScore, Relay Financial, Dandelion Networks, JANA Corporation<br><br>🔭 I’m currently working on my capstone, a Course Recommender System for Waterloo students<br><br>🌱 I’m currently learning Ruby, Ruby on Rails, and Golang for my upcoming internship<br><br>📫 Reach me at: d26ly@uwaterloo.ca</p>
 
 ###
 
