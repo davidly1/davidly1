@@ -16,6 +16,6 @@
 
 ###
 
-<p align="left">👨‍💻 SWE @ StackAdapt, Previously SWE Intern at theScore, Relay Financial, Dandelion Networks, JANA Corporation<br><br>🔭 I’m currently working on my capstone, a Course Recommender System for Waterloo students<br><br>📫 Reach me at: david26ly@gmail.com</p>
+<p align="left">👨‍💻 SWE @ StackAdapt, Previously SWE Intern at theScore, Relay Financial, Dandelion Networks, JANA Corporation<br><br>📫 Reach me at: david26ly@gmail.com</p>
 
 ###
